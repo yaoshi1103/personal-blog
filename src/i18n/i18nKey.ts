@@ -32,6 +32,12 @@ enum I18nKey {
 	author = "author",
 	publishedAt = "publishedAt",
 	license = "license",
+
+	leetcode = "leetcode",
+	solved = "solved",
+	easy = "easy",
+	medium = "medium",
+	hard = "hard",
 }
 
 export default I18nKey;
